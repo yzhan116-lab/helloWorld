@@ -1,0 +1,38 @@
+
+/* Style all paragraphs */
+p {
+    color: blueviolet;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Style all level two headers */
+h2 {
+    color: violet;
+    font-size: 24px;
+}
+
+/* Style all tables */
+table, th, td {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+/* A paragraph with id selector */
+#third-paragraph {
+    color: hotpink;
+    font-size: 18px ;
+}
+
+/* Create a new class rule  */
+.red-text {
+    color: red;
+}
+
+/* Logo styling for img */
+img.logo {
+    width: 267px;
+    height: 72px;
+}
